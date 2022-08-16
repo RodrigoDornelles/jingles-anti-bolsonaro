@@ -1,7 +1,6 @@
 :brazil: Jingles Anti Bolsonaro :brazil:
 ========================================
 
-
 ## :musical_note: Bolsonaro é morte! ##
 
 ```
@@ -37,4 +36,20 @@ Está em nossas mãos
 Temos a chance de salvar o povo
 De guiar o nosso futuro são
 E gritar “Brasil, Fora Bolsonaro, comida para todos!"
+```
+
+## :musical_note: Coveiro desgraçado ##
+
+```
+O Presidente matou meu tio
+AAAAAAAAAAHHHHHHHHHH!
+
+O Presidente matou meu tio
+AAAAAAAAAAHHHHHHHHHH!
+
+Coveiro desgraçado
+Mata um, mata mil.
+
+Genocida do caralho
+Vai para puta que pariu.
 ```
